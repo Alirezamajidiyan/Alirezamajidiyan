@@ -1,7 +1,7 @@
 ## Hi there 👋
 <hr>
 
-### I am Alireza 😁
+### I am Alireza 😁 (Front-end Developer)
 
 <br>
 
