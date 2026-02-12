@@ -118,11 +118,9 @@
     </td>
   </tr>
 </table>
-
-<br>
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer">
+</p>
 <br>
 
 <h2 align="center">📊 GITHUB PULSE</h2>
@@ -147,44 +145,6 @@
 
 <br>
 
----
-
-<br>
-
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alirezamajidiyan&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15">
-</p>
-
-<br>
-
----
-
-<br>
-
-<h2 align="center">💡 ENGINEERING PHILOSOPHY</h2>
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60px">
-</p>
-
-<br>
-
-<blockquote align="center">
-  <i>"The difference between a developer and an engineer is perspective.<br>
-  One writes functions, the other architects systems.<br>
-  One solves problems, the other prevents them.<br>
-  I strive to be the latter."</i>
-</blockquote>
-
-<br>
-
----
-
-<br>
 
 <h3 align="center">⚖️ THE CLEAN CODE PARADOX</h3>
 
@@ -285,17 +245,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson">
 </p>
-
 <br>
-
----
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer">
-</p>
-
 <p align="center">
   <b>⚡ Pragmatic Engineer • Strategic Thinker • 3+ Years ⚡</b>
 </p>
