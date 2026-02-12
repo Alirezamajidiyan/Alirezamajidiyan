@@ -22,10 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=Alirezamajidiyan&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
   <img src="https://img.shields.io/github/followers/Alirezamajidiyan?label=Followers&style=social" alt="followers" />
 </p>
-<br>
-
 <h2>🛠️ MASTERY</h2>
-
 <br>
 
 <table>
