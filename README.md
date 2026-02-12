@@ -3,9 +3,10 @@
   Alireza Majidian
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B9C9C&center=true&vCenter=true&width=600&lines=Next.js+•+TypeScript+•+Flutter;Node.js+•+PostgreSQL+•+Prisma;From+Concept+→+Production" alt="Typing SVG">
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=3B9C9C&center=true&vCenter=true&width=600&lines=Front-End+Architect;Next.js+%2F+TypeScript+Specialist;Flutter+%2F+Cross-Platform+Developer;Node.js+%2F+PostgreSQL+Engineer;From+Idea+→+Production;3%2B+Years+of+Engineering+Excellence" alt="Typing SVG">
+</h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/alireza-majidian">
@@ -142,87 +143,11 @@
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezamajidiyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=🔤%20LANGUAGES">
 </p>
-
 <br>
-
-
-<h3 align="center">⚖️ THE CLEAN CODE PARADOX</h3>
-
-<br>
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>⏳</h3>
-      <h4>Unconscious Debt</h4>
-      <p>Bad code from laziness<br>or ignorance</p>
-      <p><b style="color: #FF6B6B;">✗ Unacceptable</b></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🏦</h3>
-      <h4>Conscious Debt</h4>
-      <p>Sacrificing maintainability<br>for speed</p>
-      <p><b style="color: #3B9C9C;">✓ Strategic loan</b></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>⚖️</h3>
-      <h4>The Trade-off</h4>
-      <p>Clean Code vs<br>Time-to-Market</p>
-      <p><b style="color: #3B9C9C;">Context is king</b></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30px">
-  <br>
-  <i>“Clean Code teaches us how to write good code,<br>
-  but never when to intentionally write bad code.”</i>
-  <br>
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30px">
-</p>
-
-<br>
-
-<p align="center">
-  <b>MVP needs "Good Enough" architecture, not perfection.</b>
-</p>
-
-<br>
-
-<p align="center">
-  💰 <b>I prefer code that delivers value fast,<br>
-  over an architectural masterpiece that takes weeks.</b>
-</p>
-
-<br>
-
-<p align="right">
-  <i>— Bijan Biria, Ex-CTO</i>
-</p>
-
-<br>
-
 <blockquote align="center">
   <b>Clean Code? Yes. Clean Code obsession? No.<br>
   Good architecture + Fast delivery = Real balance.</b>
 </blockquote>
-
-<br>
-
----
-
-<br>
-
-<h2 align="center">📡 LET'S BUILD SOMETHING AMAZING</h2>
-
-<br>
-
-<p align="center">
-  <b>Open to collaborations • Freelance • Engineering discussions</b>
-</p>
 
 <br>
 
