@@ -31,36 +31,6 @@
 
 ---
 
-<br>
-
-<table>
-  <tr>
-    <td width="70%">
-      <h2>👨‍💻 WHO AM I?</h2
-      <p>
-        <b>Front-End Architect</b> specializing in <b>Next.js</b> and <b>TypeScript</b>.
-      </p>
-      <p>
-        <b>Cross-Platform Developer</b> building with <b>Flutter</b>.
-      </p>
-      <p>
-        <b>Backend Engineer</b> working with <b>Node.js</b> and <b>PostgreSQL</b>.
-      </p>
-      <p>
-        <b>I architect complete solutions — from concept to production.</b>
-      </p>
-      <p>
-        Pragmatic code. Scalable systems. Human-centered design.
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h2>🛠️ MASTERY</h2>
 
 <br>
