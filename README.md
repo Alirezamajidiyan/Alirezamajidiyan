@@ -2,12 +2,11 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   Alireza Majidian
 </h1>
-
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=3B9C9C&center=true&vCenter=true&width=600&lines=Front-End+Architect;Next.js+%2F+TypeScript+Specialist;Flutter+%2F+Cross-Platform+Developer;Node.js+%2F+PostgreSQL+Engineer;From+Idea+→+Production;3%2B+Years+of+Engineering+Excellence" alt="Typing SVG">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Calibre&weight=600&size=28&duration=3000&pause=500&color=3B9C9C&center=true&vCenter=true&width=600&lines=Front-End+Architect;Next.js+%7C+TypeScript+%7C+Flutter;Node.js+%7C+PostgreSQL+Specialist;From+Concept+→+Production;3%2B+years+of+coding+reality" alt="Typing SVG" />
+  </a>
 </h3>
-
-
 <p align="center">
   <a href="https://linkedin.com/in/alireza-majidian">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -24,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alirezamajidiyan&label=PROFILE+VIEWS&color=3B9C9C&style=flat-square">
-  <img src="https://img.shields.io/github/followers/Alirezamajidiyan?label=FOLLOWERS&style=social">
+  <img src="https://komarev.com/ghpvc/?username=Alirezamajidiyan&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/Alirezamajidiyan?label=Followers&style=social" alt="followers" />
 </p>
 
 <br>
