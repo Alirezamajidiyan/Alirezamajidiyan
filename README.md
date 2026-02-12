@@ -52,6 +52,9 @@
     <td width="30%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
     </td>
+    <td width="30%">
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="250px">
+    </td>
   </tr>
 </table>
 
