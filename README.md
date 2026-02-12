@@ -26,7 +26,9 @@
   <img src="https://komarev.com/ghpvc/?username=Alirezamajidiyan&label=PROFILE+VIEWS&color=3B9C9C&style=flat-square">
   <img src="https://img.shields.io/github/followers/Alirezamajidiyan?label=FOLLOWERS&style=social">
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer">
+</p>
 <br>
 
 ---
@@ -180,6 +182,4 @@
   <b>⚡ Pragmatic Engineer • Strategic Thinker • 3+ Years ⚡</b>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer">
-</p>
+
