@@ -37,28 +37,22 @@
   <tr>
     <td width="70%">
       <h2>👨‍💻 WHO AM I?</h2>
-      
       <p>
         <b>Front-End Architect</b> specializing in <b>Next.js</b> and <b>TypeScript</b>.
       </p>
-      
       <p>
         <b>Cross-Platform Developer</b> building with <b>Flutter</b>.
       </p>
-      
       <p>
         <b>Backend Engineer</b> working with <b>Node.js</b> and <b>PostgreSQL</b>.
       </p>
-      
       <p>
         <b>I architect complete solutions — from concept to production.</b>
       </p>
-      
       <p>
         Pragmatic code. Scalable systems. Human-centered design.
       </p>
     </td>
-    
     <td width="30%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
     </td>
@@ -88,7 +82,6 @@
         <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white">
       </p>
     </td>
-    
     <td width="50%" valign="top">
       <h3>📱 MOBILE</h3>
       <p>
@@ -112,7 +105,6 @@
         <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black">
       </p>
     </td>
-    
     <td width="50%" valign="top">
       <h3>🔧 DEVOPS & TOOLS</h3>
       <p>
@@ -206,14 +198,12 @@
       <p>Bad code from laziness<br>or ignorance</p>
       <p><b style="color: #FF6B6B;">✗ Unacceptable</b></p>
     </td>
-    
     <td width="33%" align="center" valign="top">
       <h3>🏦</h3>
       <h4>Conscious Debt</h4>
       <p>Sacrificing maintainability<br>for speed</p>
       <p><b style="color: #3B9C9C;">✓ Strategic loan</b></p>
     </td>
-    
     <td width="33%" align="center" valign="top">
       <h3>⚖️</h3>
       <h4>The Trade-off</h4>
