@@ -37,18 +37,28 @@
   <tr>
     <td width="70%">
       <h2>👨‍💻 WHO AM I?</h2>
+      
       <p>
         <b>Front-End Architect</b> specializing in <b>Next.js</b> and <b>TypeScript</b>.
-        <br><br>
+      </p>
+      
+      <p>
         <b>Cross-Platform Developer</b> building with <b>Flutter</b>.
-        <br><br>
+      </p>
+      
+      <p>
         <b>Backend Engineer</b> working with <b>Node.js</b> and <b>PostgreSQL</b>.
-        <br><br>
-        I architect complete solutions — from <b>concept to production</b>.
-        <br>
-        Clean code. Scalable systems. Human-centered design.
+      </p>
+      
+      <p>
+        <b>I architect complete solutions — from concept to production.</b>
+      </p>
+      
+      <p>
+        Pragmatic code. Scalable systems. Human-centered design.
       </p>
     </td>
+    
     <td width="30%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
     </td>
@@ -61,10 +71,10 @@
 
 <br>
 
-<h2 align="center">⚡ ENGINEERING EXCELLENCE ⚡</h2>
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alirezamajidiyan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alirezamajidiyan&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15">
 </p>
 
 <br>
@@ -118,18 +128,20 @@
 
 <br>
 
-<h2>📊 GITHUB PULSE</h2>
+<h2>📊 CONTRIBUTION FLOW</h2>
 
 <br>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezamajidiyan&layout=pie&theme=tokyonight&hide_border=true&langs_count=8&custom_title=%F0%9F%A7%A0%20LANGUAGE%20DISTRIBUTION">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Alirezamajidiyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1%20CODE%20METRICS">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alirezamajidiyan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B9C9C&line=3B9C9C&point=FFFFFF&area=true&custom_title=⚡%20CONTRIBUTION%20ACTIVITY%20⚡">
 </p>
 
+<br>
+
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alirezamajidiyan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B9C9C&line=3B9C9C&point=FFFFFF&area=true&custom_title=%F0%9F%8C%8A%20CONTRIBUTION%20FLOW">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Alirezamajidiyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20STATS">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alirezamajidiyan&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B9C9C&ring=3B9C9C&fire=3B9C9C&currStreakLabel=3B9C9C">
 </p>
 
 <br>
@@ -138,7 +150,13 @@
 
 <br>
 
-<h2>🧠 MINDSET</h2>
+<h2 align="center">🧠 ENGINEERING WISDOM</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="80px">
+</p>
 
 <br>
 
@@ -151,22 +169,71 @@
 
 <br>
 
-<table align="center">
+---
+
+<br>
+
+<h3 align="center">💡 THE CLEAN CODE PARADOX</h3>
+
+<br>
+
+<table>
   <tr>
-    <td align="center" width="33%">
-      <b>🎯 CLEAN CODE</b><br>
-      Readable • Maintainable
+    <td width="33%" align="center" valign="top">
+      <h3>⏳</h3>
+      <h4>Unconscious Debt</h4>
+      <p>Bad code from laziness<br>or ignorance</p>
+      <p><b style="color: #FF6B6B;">✗ Unacceptable</b></p>
     </td>
-    <td align="center" width="33%">
-      <b>🏗️ SCALABLE ARCH</b><br>
-      Design for tomorrow
+    
+    <td width="33%" align="center" valign="top">
+      <h3>🏦</h3>
+      <h4>Conscious Debt</h4>
+      <p>Sacrificing maintainability<br>for speed</p>
+      <p><b style="color: #3B9C9C;">✓ Strategic loan</b></p>
     </td>
-    <td align="center" width="33%">
-      <b>🔄 FULL LIFECYCLE</b><br>
-      Idea → Production
+    
+    <td width="33%" align="center" valign="top">
+      <h3>⚖️</h3>
+      <h4>The Trade-off</h4>
+      <p>Clean Code vs<br>Time-to-Market</p>
+      <p><b style="color: #3B9C9C;">Context is king</b></p>
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <i>“Clean Code teaches us how to write good code,<br>
+  but never when to intentionally write bad code.”</i>
+</p>
+
+<br>
+
+<p align="center">
+  <b>MVP needs "Good Enough" architecture, not perfection.</b>
+</p>
+
+<br>
+
+<p align="center">
+  💰 <b>I prefer dirty code that delivers value fast,<br>
+  over an architectural masterpiece that takes weeks.</b>
+</p>
+
+<br>
+
+<p align="right">
+  <i>— Bijan Biria</i>
+</p>
+
+<br>
+
+<blockquote align="center">
+  <b>I believe in Clean Code — but not when it becomes procrastination.<br>
+  Good architecture + Fast delivery = Real balance.</b>
+</blockquote>
 
 <br>
 
@@ -211,7 +278,7 @@
 <br>
 
 <p align="center">
-  <b>⚡ Engineer • Architect • Problem Solver • 3+ Years ⚡</b>
+  <b>⚡ Pragmatic Engineer • Strategic Thinker • 3+ Years ⚡</b>
 </p>
 
 <p align="center">
