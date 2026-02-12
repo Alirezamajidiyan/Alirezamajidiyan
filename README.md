@@ -22,46 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=Alirezamajidiyan&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
   <img src="https://img.shields.io/github/followers/Alirezamajidiyan?label=Followers&style=social" alt="followers" />
 </p>
-
-<br>
-
----
-
-<br>
-
-<table>
-  <tr>
-    <td width="70%">
-      <h2>👨‍💻 WHO AM I?</h2>
-      <p>
-        <b>Front-End Architect</b> specializing in <b>Next.js</b> and <b>TypeScript</b>.
-      </p>
-      <p>
-        <b>Cross-Platform Developer</b> building with <b>Flutter</b>.
-      </p>
-      <p>
-        <b>Backend Engineer</b> working with <b>Node.js</b> and <b>PostgreSQL</b>.
-      </p>
-      <p>
-        <b>I architect complete solutions — from concept to production.</b>
-      </p>
-      <p>
-        Pragmatic code. Scalable systems. Human-centered design.
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
-    </td>
-    <td width="30%">
-      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="250px">
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
 <br>
 
 <h2>🛠️ MASTERY</h2>
