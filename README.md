@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Next.js • TypeScript • Flutter • Node.js • PostgreSQL</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B9C9C&center=true&vCenter=true&width=600&lines=Next.js+•+TypeScript+•+Flutter;Node.js+•+PostgreSQL+•+Prisma;From+Concept+→+Production" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -26,54 +26,106 @@
   <img src="https://komarev.com/ghpvc/?username=Alirezamajidiyan&label=PROFILE+VIEWS&color=3B9C9C&style=flat-square">
   <img src="https://img.shields.io/github/followers/Alirezamajidiyan?label=FOLLOWERS&style=social">
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer">
-</p>
+
 <br>
 
 ---
+
+<br>
+
+<table>
+  <tr>
+    <td width="70%">
+      <h2>👨‍💻 WHO AM I?</h2>
+      
+      <p>
+        <b>Front-End Architect</b> specializing in <b>Next.js</b> and <b>TypeScript</b>.
+      </p>
+      
+      <p>
+        <b>Cross-Platform Developer</b> building with <b>Flutter</b>.
+      </p>
+      
+      <p>
+        <b>Backend Engineer</b> working with <b>Node.js</b> and <b>PostgreSQL</b>.
+      </p>
+      
+      <p>
+        <b>I architect complete solutions — from concept to production.</b>
+      </p>
+      
+      <p>
+        Pragmatic code. Scalable systems. Human-centered design.
+      </p>
+    </td>
+    
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
 
 <h2>🛠️ MASTERY</h2>
 
 <br>
 
-<p>
-  <b>🎨 FRONTEND</b><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-</p>
-
-
-<p>
-  <b>📱 MOBILE</b><br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white">
-</p>
-
-
-<p>
-  <b>⚙️ BACKEND & DB</b><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-</p>
-
-
-<p>
-  <b>🔧 DEVOPS & TOOLS</b><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 FRONTEND</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+        <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white">
+      </p>
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3>📱 MOBILE</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ BACKEND & DB</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black">
+      </p>
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3>🔧 DEVOPS & TOOLS</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -81,7 +133,7 @@
 
 <br>
 
-<h2>📊 CONTRIBUTION FLOW</h2>
+<h2 align="center">📊 GITHUB PULSE</h2>
 
 <br>
 
@@ -97,17 +149,89 @@
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alirezamajidiyan&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B9C9C&ring=3B9C9C&fire=3B9C9C&currStreakLabel=3B9C9C">
 </p>
 
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezamajidiyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=🔤%20LANGUAGES">
+</p>
+
 <br>
 
-
-<h3 align="center">💡 THE CLEAN CODE PARADOX</h3>
+---
 
 <br>
 
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alirezamajidiyan&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15">
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">💡 ENGINEERING PHILOSOPHY</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60px">
+</p>
+
+<br>
+
+<blockquote align="center">
+  <i>"The difference between a developer and an engineer is perspective.<br>
+  One writes functions, the other architects systems.<br>
+  One solves problems, the other prevents them.<br>
+  I strive to be the latter."</i>
+</blockquote>
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">⚖️ THE CLEAN CODE PARADOX</h3>
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>⏳</h3>
+      <h4>Unconscious Debt</h4>
+      <p>Bad code from laziness<br>or ignorance</p>
+      <p><b style="color: #FF6B6B;">✗ Unacceptable</b></p>
+    </td>
+    
+    <td width="33%" align="center" valign="top">
+      <h3>🏦</h3>
+      <h4>Conscious Debt</h4>
+      <p>Sacrificing maintainability<br>for speed</p>
+      <p><b style="color: #3B9C9C;">✓ Strategic loan</b></p>
+    </td>
+    
+    <td width="33%" align="center" valign="top">
+      <h3>⚖️</h3>
+      <h4>The Trade-off</h4>
+      <p>Clean Code vs<br>Time-to-Market</p>
+      <p><b style="color: #3B9C9C;">Context is king</b></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30px">
+  <br>
   <i>“Clean Code teaches us how to write good code,<br>
   but never when to intentionally write bad code.”</i>
+  <br>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30px">
 </p>
 
 <br>
@@ -119,20 +243,20 @@
 <br>
 
 <p align="center">
-  💰 <b>I prefer dirty code that delivers value fast,<br>
+  💰 <b>I prefer code that delivers value fast,<br>
   over an architectural masterpiece that takes weeks.</b>
 </p>
 
 <br>
 
 <p align="right">
-  <i>— Bijan Biria</i>
+  <i>— Bijan Biria, Ex-CTO</i>
 </p>
 
 <br>
 
 <blockquote align="center">
-  <b>I believe in Clean Code — but not when it becomes procrastination.<br>
+  <b>Clean Code? Yes. Clean Code obsession? No.<br>
   Good architecture + Fast delivery = Real balance.</b>
 </blockquote>
 
@@ -147,7 +271,7 @@
 <br>
 
 <p align="center">
-  <b>Open to collaborations, freelance, and engineering discussions</b>
+  <b>Open to collaborations • Freelance • Engineering discussions</b>
 </p>
 
 <br>
@@ -179,7 +303,9 @@
 <br>
 
 <p align="center">
-  <b>⚡ Pragmatic Engineer • Strategic Thinker • 3+ Years ⚡</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer">
 </p>
 
-
+<p align="center">
+  <b>⚡ Pragmatic Engineer • Strategic Thinker • 3+ Years ⚡</b>
+</p>
