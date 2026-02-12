@@ -61,22 +61,6 @@
 
 <br>
 
----
-
-<br>
-
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alirezamajidiyan&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15">
-</p>
-
-<br>
-
----
-
-<br>
-
 <h2>🛠️ MASTERY</h2>
 
 <br>
@@ -90,6 +74,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </p>
 
+
 <p>
   <b>📱 MOBILE</b><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -97,6 +82,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
+
 
 <p>
   <b>⚙️ BACKEND & DB</b><br>
@@ -106,6 +92,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 </p>
+
 
 <p>
   <b>🔧 DEVOPS & TOOLS</b><br>
@@ -140,61 +127,11 @@
 
 <br>
 
----
-
-<br>
-
-<h2 align="center">🧠 ENGINEERING WISDOM</h2>
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="80px">
-</p>
-
-<br>
-
-<blockquote align="center">
-  <i>"The difference between a developer and an engineer is perspective.<br>
-  One writes functions, the other architects systems.<br>
-  One solves problems, the other prevents them.<br>
-  I strive to be the latter."</i>
-</blockquote>
-
-<br>
-
----
-
-<br>
 
 <h3 align="center">💡 THE CLEAN CODE PARADOX</h3>
 
 <br>
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>⏳</h3>
-      <h4>Unconscious Debt</h4>
-      <p>Bad code from laziness<br>or ignorance</p>
-      <p><b style="color: #FF6B6B;">✗ Unacceptable</b></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🏦</h3>
-      <h4>Conscious Debt</h4>
-      <p>Sacrificing maintainability<br>for speed</p>
-      <p><b style="color: #3B9C9C;">✓ Strategic loan</b></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>⚖️</h3>
-      <h4>The Trade-off</h4>
-      <p>Clean Code vs<br>Time-to-Market</p>
-      <p><b style="color: #3B9C9C;">Context is king</b></p>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <p align="center">
   <i>“Clean Code teaches us how to write good code,<br>
